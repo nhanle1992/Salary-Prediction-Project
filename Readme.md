@@ -26,7 +26,7 @@ This repository showcases a machine learning project focused on predicting an in
 ├── data/  
 │   └── Salary_dataset.csv           # The raw dataset used for the project
 ├── README.md                      # This file
-└── .gitignore
+└── Practice Salary analysis - report.html # Final report
 ```
 
 ## Key Findings
